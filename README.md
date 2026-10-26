@@ -1,6 +1,6 @@
 👋 Hi, I'm Gueylord
 
-💻 Passionate Developer | 📱 Android Enthusiast | 🌐 Web Creator
+💻 Passionate Developer | 📱 Mobile Enthusiast | 🌐 Web Creator | 🤖 AI Tuner
 
 I enjoy building applications that combine great design, smooth performance, and practical functionality. I love experimenting with new technologies and turning ideas into real projects.
 
